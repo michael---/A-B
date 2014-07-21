@@ -5,6 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("   ");
+	printf("Nothing~~");
 	return 0;
 }
